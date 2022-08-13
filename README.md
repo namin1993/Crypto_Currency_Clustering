@@ -11,9 +11,9 @@ After preprocessing the data, we perform a cluster analysis by first performing 
 ## Summary
 The 3D-Scatter plot with PCA data and the clusters is listed below (n_clusters for the K-Means Model is 4):
 
-![3D-Scatter Plot]()
+![3D-Scatter Plot](https://github.com/namin1993/Crypto_Currency_Clustering/blob/c687b4cfdf0a865a83aaa225e3216604fd5374f6/Resources/newplot.png)
 
 
 The 2D-Scatter Plot with each crypto currency labeled with a certain K-Means Model Class:
 
-![2D-Scatter Plot]()
+![2D-Scatter Plot](https://github.com/namin1993/Crypto_Currency_Clustering/blob/c687b4cfdf0a865a83aaa225e3216604fd5374f6/Resources/bokeh_plot.png)
